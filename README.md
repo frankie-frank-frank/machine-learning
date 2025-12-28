@@ -1,2 +1,2 @@
 # MY JOURNEY INTO ML 
-Core resource: [Full Stack Practical Deep Learning with TensorFlow 2, HuggingFace, WandB and KubeFlow](https://www.youtube.com/playlist?list=PL2L83ZcMO-5O7zNycUkS5WLgr33J3QxMK)
+1. Linear Regression with Neural Networks: Core resource: [Full Stack Practical Deep Learning with TensorFlow 2, HuggingFace, WandB and KubeFlow](https://www.youtube.com/playlist?list=PL2L83ZcMO-5O7zNycUkS5WLgr33J3QxMK)

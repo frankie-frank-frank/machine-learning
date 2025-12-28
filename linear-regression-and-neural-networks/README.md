@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=suAkMeWJ1yE
 Create virtual environment: python -m venv ./.venv
 Activate virtual environment: source ./.venv/bin/activate
 Install packages: pip install pandas numpy matplotlib scikit-learn
+Exit virtual environment on the terminal: type `deactivate`
 
 ## TensorFlow Setup for Apple M-Series (M1/M2/M3):
 

@@ -9,6 +9,7 @@ Create virtual environment: python -m venv ./.venv
 Activate virtual environment: source ./.venv/bin/activate
 Install packages: pip install pandas numpy matplotlib scikit-learn
 Exit virtual environment on the terminal: type `deactivate`
+Register a new virtual environment: `./venv-arm64/bin/python -m ipykernel install --user --name=spam-classifier-venv --display-name="Python 3.9 (spam-classifier)"`
 
 ## TensorFlow Setup for Apple M-Series (M1/M2/M3):
 
